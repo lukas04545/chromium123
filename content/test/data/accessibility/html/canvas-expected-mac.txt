@@ -1,7 +1,0 @@
-AXWebArea
-++AXGroup
-++++AXImage
-++++AXGroup
-++++++AXStaticText AXValue='Static fallback'
-++++AXGroup
-++++++AXStaticText AXValue='Static fallback'

@@ -1,2 +1,0 @@
-per-file renderer_url_loader_throttle*=file://chrome/browser/safe_browsing/extension_telemetry/OWNERS
-per-file websocket_sb_extensions_handshake_throttle*=file://chrome/browser/safe_browsing/extension_telemetry/OWNERS

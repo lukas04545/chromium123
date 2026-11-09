@@ -1,5 +1,0 @@
-rules:
-- img-*: [img]
-- video-*: [video]
-- object_*: [object]
-- picture-*: [picture]

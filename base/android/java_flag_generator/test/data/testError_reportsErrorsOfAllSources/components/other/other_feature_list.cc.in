@@ -1,3 +1,0 @@
-namespace other {
-BASE_FEATURE(kOtherFeature, base::FEATURE_DISABLED_BY_DEFAULT);
-}  // namespace other

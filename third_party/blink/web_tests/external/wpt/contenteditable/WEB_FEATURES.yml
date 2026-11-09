@@ -1,3 +1,0 @@
-rules:
-- plaintext-only.html: [contenteditable-plaintextonly]
-- synthetic-height.html: [contenteditable]

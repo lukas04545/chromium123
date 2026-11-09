@@ -1,7 +1,0 @@
-mixins: "//components/sync/COMMON_METADATA"
-monorail: {
-  component: "UI>Browser>Sharing"
-}
-buganizer_public: {
-  component_id: 1457306
-}

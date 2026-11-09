@@ -1,2 +1,0 @@
-rules:
-- "**": [bfcache-blocking-reasons]

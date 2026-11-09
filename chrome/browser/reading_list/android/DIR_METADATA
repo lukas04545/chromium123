@@ -1,7 +1,0 @@
-monorail: {
-  component: "UI>Browser>Mobile>ReadingList"
-}
-os: ANDROID
-buganizer_public: {
-  component_id: 1457106
-}

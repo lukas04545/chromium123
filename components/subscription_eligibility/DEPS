@@ -1,7 +1,0 @@
-include_rules = [
-  "+components/internal/subscription_eligibility",
-  "+components/keyed_service/core",
-  "+components/pref_registry",
-  "+components/prefs",
-  "+components/sync_preferences",
-]

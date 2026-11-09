@@ -1,4 +1,0 @@
-# Crash
-
-Crash is a [layered component](https://www.chromium.org/developers/design-documents/layered-components-design/)
-to enable it to be shared cleanly on iOS.

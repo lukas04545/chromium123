@@ -1,2 +1,0 @@
-Tests disconnect inside custom devtoolsFormatter called from DOMDebugger.getEventListeners.
-

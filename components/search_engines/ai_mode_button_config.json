@@ -1,7 +1,0 @@
-{
-  "aggregation": {
-    "type": "array",
-    "name": "kAiModeButtonConfigs"
-  },
-  "elements": {}
-}

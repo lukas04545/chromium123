@@ -1,5 +1,0 @@
-include_rules = [
-  "+absl",
-  "+base/check_op.h",
-  "+private_join_and_compute",
-]

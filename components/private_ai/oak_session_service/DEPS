@@ -1,3 +1,0 @@
-include_rules = [
-  "+third_party/oak/src/oak_session/tls",
-]

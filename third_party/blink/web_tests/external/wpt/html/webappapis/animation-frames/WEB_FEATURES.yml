@@ -1,2 +1,0 @@
-rules:
-- "**": [request-animation-frame]

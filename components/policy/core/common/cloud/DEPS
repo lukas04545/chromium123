@@ -1,4 +1,0 @@
-include_rules = [
-  "+components/signin/public",
-  "+components/session_manager/core",
-]

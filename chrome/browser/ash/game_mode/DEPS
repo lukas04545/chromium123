@@ -1,7 +1,0 @@
-specific_include_rules = {
-  # Only tests need these //chrome dependencies.
-  "game_mode_controller_for_borealis_unittest\\.cc": [
-    "+chrome/browser/ash/borealis",
-    "+chrome/browser/ash/game_mode",
-  ],
-}

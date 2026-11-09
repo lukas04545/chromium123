@@ -1,4 +1,0 @@
-Tests that Page.captureScreenshot optimizeForSpeed affects webp encoding
-PASSED: slowly encoded lossless webp is smaller than quickly encoded
-PASSED: slowly encoded lossy webp is smaller than quickly encoded
-

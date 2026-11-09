@@ -1,8 +1,0 @@
-include_rules = [
-   # Disallow most chromium-wide dependencies listed in chromium/src/DEPS,
-   # except //base (e.g. for base::span and other fundamental types).
-   "-build",
-   "-ipc",
-   "-testing",
-   "-url",
-]

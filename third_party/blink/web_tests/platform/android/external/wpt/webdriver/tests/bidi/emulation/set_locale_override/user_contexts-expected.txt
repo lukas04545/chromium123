@@ -1,9 +1,0 @@
-This is a wdspec test.
-[ERROR] test_set_to_default_user_context
-  setup error: webdriver.bidi.modules.script.ScriptEvaluateResultException: TypeError: Failed to fetch
-[ERROR] test_set_to_user_context_and_then_to_context
-  setup error: webdriver.bidi.modules.script.ScriptEvaluateResultException: TypeError: Failed to fetch
-[ERROR] test_set_to_context_and_then_to_user_context
-  setup error: webdriver.bidi.modules.script.ScriptEvaluateResultException: TypeError: Failed to fetch
-Harness: the test ran to completion.
-

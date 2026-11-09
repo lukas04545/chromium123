@@ -1,3 +1,0 @@
-This page contains the following errors:
-error on line 9 at column 12: Unexpected entity: message
-Below is a rendering of the page up to the first error.

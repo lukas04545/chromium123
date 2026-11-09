@@ -1,9 +1,0 @@
-CloudReporting:
-  caption: Cloud Reporting
-  policies:
-  - CloudExtensionRequestEnabled
-  - CloudReportingEnabled
-  - CloudProfileReportingEnabled
-  - CloudReportingUploadFrequency
-  - UserSecuritySignalsReporting
-  - UserSecurityAuthenticatedReporting

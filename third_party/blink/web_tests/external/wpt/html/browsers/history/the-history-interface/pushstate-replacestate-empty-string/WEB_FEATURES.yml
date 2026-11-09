@@ -1,4 +1,0 @@
-rules:
-- pushstate-base.html: [base]
-- replacestate-base.html: [base]
-- "*": [history]

@@ -1,6 +1,0 @@
-include_rules = [
-  # Used for non-iOS and iOS Blink tests.
-  "+content/public/test",
-  # Used only for iOS WebKit tests.
-  "+ios/web/public/test",
-]

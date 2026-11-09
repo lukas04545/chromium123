@@ -1,5 +1,0 @@
-include_rules = [
-  "+net/base/is_potentially_trustworthy.h",
-  "+net/http",
-  "+net/traffic_annotation",
-]

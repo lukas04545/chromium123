@@ -1,3 +1,0 @@
-rules:
-- webkit-text-fill-color-*: [text-stroke-fill]
-- webkit-*-gradient*: [gradients]

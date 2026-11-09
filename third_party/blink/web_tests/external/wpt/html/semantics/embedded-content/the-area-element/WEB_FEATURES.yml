@@ -1,3 +1,0 @@
-rules:
-- area-download-click.html: [download]
-- "*": [image-maps]

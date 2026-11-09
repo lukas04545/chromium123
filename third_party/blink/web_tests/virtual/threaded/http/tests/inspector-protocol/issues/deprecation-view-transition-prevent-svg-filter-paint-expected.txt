@@ -1,3 +1,0 @@
-Tests that a deprecation issue is reported when an SVG filter is applied to view transition content
-Inspector issue type ViewTransitionPreventSvgFilterPaint
-

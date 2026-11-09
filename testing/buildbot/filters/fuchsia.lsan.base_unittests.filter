@@ -1,8 +1,0 @@
-# https://crbug.com/1339149
--ToolsSanityTest.AccessesToMallocMemory
--ToolsSanityTest.AccessesToNewMemory
--ToolsSanityTest.AccessesToStack
--ToolsSanityTest.AsanHeapOverflow
--ToolsSanityTest.AsanHeapUnderflow
--ToolsSanityTest.AsanHeapUseAfterFree
--ToolsSanityTest.MemoryLeak

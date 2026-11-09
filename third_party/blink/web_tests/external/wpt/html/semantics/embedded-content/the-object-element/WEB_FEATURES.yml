@@ -1,3 +1,0 @@
-rules:
-- object-setcustomvalidity.html: [constraint-validation]
-- "*": [object]

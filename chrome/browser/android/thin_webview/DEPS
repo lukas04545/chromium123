@@ -1,8 +1,0 @@
-include_rules = [
-  "+chrome/browser/ui/browser_window/public",
-  "+components/tabs/public",
-  "+components/thin_webview",
-  "+content/public/browser",
-  "+ui/android",
-  "+ui/base",
-]

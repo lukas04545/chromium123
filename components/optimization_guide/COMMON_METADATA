@@ -1,8 +1,0 @@
-monorail: {
-  component: "Internals>OptimizationGuide"
-}
-buganizer_public: {
-  component_id: 1456757
-}
-agentic_review: {
-}

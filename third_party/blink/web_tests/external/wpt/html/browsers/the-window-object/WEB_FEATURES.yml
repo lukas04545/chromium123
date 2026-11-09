@@ -1,4 +1,0 @@
-rules:
-- BarProp.window.js: [barprop]
-- noopener-noreferrer-BarProp.window.js: [barprop]
-- "*": [window]

@@ -1,8 +1,0 @@
-{
-  "name": "events_are_unregistered",
-  "version": "1",
-  "manifest_version": 3,
-  "description": "events_are_unregistered",
-  "action": {},
-  "permissions": ["webNavigation"]
-}

@@ -1,3 +1,0 @@
-namespace bar {
-BASE_FEATURE(kBarFeature, base::FEATURE_DISABLED_BY_DEFAULT);
-}  // namespace bar

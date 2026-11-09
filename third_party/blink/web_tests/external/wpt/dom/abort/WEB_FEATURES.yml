@@ -1,3 +1,0 @@
-rules:
-- abort-signal-any.any.js: [abortsignal-any, aborting]
-- "**": [aborting]

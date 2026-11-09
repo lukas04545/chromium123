@@ -1,3 +1,0 @@
-rules:
-- script-src-module.tentative.html: [js-modules]
-- script-src-nomodule.tentative.html: [js-modules]

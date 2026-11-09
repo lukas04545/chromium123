@@ -1,7 +1,0 @@
-rules:
-- wheel-*: [wheel-events]
-- click-*: [mouse-events]
-- mouseevents-mousemove.htm: [mouse-events]
-- mousemove-across.html: [mouse-events]
-- mousemove-between.html: [mouse-events]
-- mouseover-out.html: [mouse-events]

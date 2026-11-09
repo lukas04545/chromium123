@@ -1,4 +1,0 @@
-Tests context disposal on detach from page exposing DevTools protocol.
-Browser contexts count before detach: 65
-Detaching browser session...
-Browser contexts count after detach: 0

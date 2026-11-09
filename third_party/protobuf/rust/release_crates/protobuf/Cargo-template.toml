@@ -1,9 +1,0 @@
-[package]
-name = "protobuf"
-version = "{PROTOBUF_LEGACY_VERSION}"
-edition = "2021"  
-license = "BSD-3-Clause"
-description = "Protocol Buffers - Google's data interchange format"
-
-[dependencies]
-google_protobuf = { package = "google-protobuf", version = "{PROTOBUF_RUST_VERSION}", path = "../google_protobuf" }

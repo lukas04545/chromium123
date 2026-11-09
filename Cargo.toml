@@ -1,0 +1,12 @@
+[package]
+name = "rustbrowser"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+boa_engine = "0.22.0"
+html5ever = "0.40.1"
+markup5ever = "0.40.0"
+markup5ever_rcdom = "0.40.1"
+ureq = "3.5.1"
+url = "2.5.8"

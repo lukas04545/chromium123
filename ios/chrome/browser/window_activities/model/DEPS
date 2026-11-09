@@ -1,6 +1,0 @@
-include_rules = [
-  # keep-sorted start
-  "+ios/chrome/browser/menu/public",
-  "+ios/chrome/browser/url_loading/model",
-  # keep-sorted end
-]

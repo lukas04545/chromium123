@@ -1,4 +1,0 @@
-mixins: "//components/webauthn/COMMON_METADATA"
-wpt: {
-  notify: YES
-}

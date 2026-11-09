@@ -1,2 +1,0 @@
-extend = "../.ruff.toml"
-indent-width = 4

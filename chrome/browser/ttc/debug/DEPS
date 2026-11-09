@@ -1,4 +1,0 @@
-include_rules = [
-  # Only the public part of the app implementation is visible here.
-  "+components/ttc/app/public",
-]

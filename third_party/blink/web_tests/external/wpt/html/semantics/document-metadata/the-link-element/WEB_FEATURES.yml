@@ -1,5 +1,0 @@
-rules:
-- stylesheet-empty-href.html: [base, link]
-- stylesheet-with-base.html: [base, link]
-- attr-link-fetchpriority.html: [fetch-priority, link]
-- "**": [link]

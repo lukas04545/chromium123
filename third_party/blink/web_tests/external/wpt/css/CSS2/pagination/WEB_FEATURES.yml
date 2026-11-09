@@ -1,3 +1,0 @@
-rules:
-- orphans-*: [widows-orphans]
-- widows-*: [widows-orphans]

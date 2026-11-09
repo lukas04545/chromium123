@@ -1,5 +1,0 @@
-skip_child_includes = [
-  # src/ is a fork of an external repo and should not go through
-  # checkdeps.
-  'src',
-]

@@ -1,2 +1,0 @@
-rules:
-- "**": [clipboard-events]

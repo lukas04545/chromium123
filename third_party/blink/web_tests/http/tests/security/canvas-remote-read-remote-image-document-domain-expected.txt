@@ -1,6 +1,0 @@
-CONSOLE WARNING: document.domain mutation is ignored because the surrounding agent cluster is origin-keyed.
-PASS: Calling getImageData() from a canvas tainted by a document.domain image was allowed.
-PASS: Calling toDataURL() on a canvas tainted by a document.domain image was allowed.
-PASS: Calling getImageData() from a canvas tainted by a document.domain image pattern was allowed.
-PASS: Calling toDataURL() on a canvas tainted by a document.domain image pattern was allowed.
-

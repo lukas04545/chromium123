@@ -1,3 +1,0 @@
-rules:
-- srcset-media-dynamic.html: [source, srcset]
-- "**": [srcset]

@@ -1,3 +1,0 @@
-Tests opening a Browser.addMockCamera camera by exact deviceId.
-Exact deviceId opened one live video track: true
-

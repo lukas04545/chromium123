@@ -1,2 +1,0 @@
-/* Served slowly via ?pipe=trickle(...) to keep a style sheet pending. */
-body { --loaded: 1; }

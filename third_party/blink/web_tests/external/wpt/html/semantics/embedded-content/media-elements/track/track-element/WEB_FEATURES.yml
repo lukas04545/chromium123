@@ -1,3 +1,0 @@
-rules:
-- track-webvtt-*: []
-- "*": [text-tracks]

@@ -1,4 +1,0 @@
-This is a wdspec test.
-[FAIL] test_file[ignore]
-  Failed: DID NOT RAISE <class 'webdriver.error.TimeoutException'>
-Harness: the test ran to completion.

@@ -1,3 +1,0 @@
-Tests that WebGL and WebGPU are disabled with --enable-unsafe-webgpu alone.
-WebGL context: null
-WebGPU adapter: null

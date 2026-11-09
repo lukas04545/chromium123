@@ -1,7 +1,0 @@
-# For Safebrowsing related reviews
-nwokedi@chromium.org
-vakh@chromium.org #{LAST_RESORT_SUGGESTION}
-# For Chrome Sync related reviews
-markusheintz@chromium.org
-# For large-scale Sync-related changes, refactorings, etc.
-per-file *sync*=file://components/sync/OWNERS

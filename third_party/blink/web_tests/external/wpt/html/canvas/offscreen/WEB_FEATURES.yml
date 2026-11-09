@@ -1,2 +1,0 @@
-rules:
-- "**": [offscreen-canvas]

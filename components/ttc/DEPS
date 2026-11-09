@@ -1,7 +1,0 @@
-include_rules = [
-  "+components/actor/core",
-  "+components/actor/public/mojom",
-  "+components/optimization_guide/core",
-  "+components/optimization_guide/proto",
-  "+url",
-]

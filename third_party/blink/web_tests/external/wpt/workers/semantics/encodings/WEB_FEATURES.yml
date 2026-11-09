@@ -1,4 +1,0 @@
-rules:
-- 002.html: [shared-workers]
-- 004.html: [shared-workers]
-- "*": [dedicated-workers]

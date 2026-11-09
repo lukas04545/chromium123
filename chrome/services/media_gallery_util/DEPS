@@ -1,5 +1,0 @@
-include_rules = [
-  "+components/media_gallery_util",
-  "+media",
-  "+third_party/libyuv",
-]

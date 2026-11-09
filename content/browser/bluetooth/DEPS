@@ -1,5 +1,0 @@
-include_rules = [
-  "+device/base/public/cpp",
-  "+device/bluetooth",
-  "+third_party/blink/common/bluetooth",
-]

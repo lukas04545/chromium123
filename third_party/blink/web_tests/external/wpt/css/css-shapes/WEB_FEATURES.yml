@@ -1,5 +1,0 @@
-rules:
-- basic-shape-circle-ellipse-serialization.html: [shapes]
-- basic-shape-interpolation.html: [shapes]
-- inheritance.html: [shape-outside]
-- shape-outside-*: [shape-outside]

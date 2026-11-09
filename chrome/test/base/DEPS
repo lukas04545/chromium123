@@ -1,7 +1,0 @@
-include_rules = [
-  "+components/contextual_search/internal",
-  "+components/device_reauth",
-  "+components/os_crypt/common",
-  "+components/record_replay/core/common",
-  "+components/record_replay/content/renderer",
-]

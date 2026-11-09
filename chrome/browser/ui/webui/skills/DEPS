@@ -1,5 +1,0 @@
-specific_include_rules = {
-  "skills_ui.cc": [
-    "+chrome/browser/glic/gemini_enterprise/geic_enabling.h",
-  ],
-}

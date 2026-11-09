@@ -1,3 +1,0 @@
-# TODO(crbug.com/517946352):
--SocketUtilsPosixTest.TwoMessagesZeroByteThenOneByteWithHandles
--SocketUtilsPosixTest.ZeroBytePayloadDropsHandles

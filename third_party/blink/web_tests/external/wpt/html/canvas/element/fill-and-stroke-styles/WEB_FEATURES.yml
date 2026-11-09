@@ -1,3 +1,0 @@
-rules:
-- 2d.gradient.conic.*: [canvas-createconicgradient]
-- "*": [canvas-2d]

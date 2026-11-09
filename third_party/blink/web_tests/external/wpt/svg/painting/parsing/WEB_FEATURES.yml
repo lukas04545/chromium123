@@ -1,4 +1,0 @@
-rules:
-- paint-order-*: [paint-order]
-- fill-opacity-*.svg: [opacity-svg]
-- stroke-opacity-*.svg: [opacity-svg]

@@ -1,5 +1,0 @@
-# TODO(fuchsia): Fix these tests and remove the filter. https://crbug.com/731302 .
-
-# base::MakeFileUnreadable() doesn't work. https://crbug.com/759853
--All/HttpNetworkTransactionTest.UploadUnreadableFile/*
--All/SpdyNetworkTransactionTest.UnreadableFilePost/*

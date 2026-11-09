@@ -1,3 +1,0 @@
-file://chrome/android/java/src/org/chromium/chrome/browser/app/tab_activity_glue/OWNERS
-
-per-file PopupCreatorImplUnitTest.java=linyuh@google.com

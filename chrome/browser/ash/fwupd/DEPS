@@ -1,6 +1,0 @@
-include_rules = [
-  "-chrome",
-
-  "+chrome/browser/ash/fwupd",
-
-]

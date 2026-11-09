@@ -1,3 +1,0 @@
-rules:
-- "*_past*": [time-relative-selectors]
-- "*_future*": [time-relative-selectors]

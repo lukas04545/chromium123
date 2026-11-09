@@ -1,9 +1,0 @@
-This is a wdspec test.
-[FAIL] test_modify_cookies[store_cookie_removed]
-  AssertionError: assert 1 == 0
-[FAIL] test_modify_cookies[store_cookies_replaced]
-  AssertionError: assert 1 == 0
-[FAIL] test_modify_cookies[common_cookie]
-  AssertionError: assert 2 == 1
-Harness: the test ran to completion.
-

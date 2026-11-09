@@ -1,3 +1,0 @@
-Tests that WebGL and WebGPU are disabled by default.
-WebGL context: null
-WebGPU adapter: null

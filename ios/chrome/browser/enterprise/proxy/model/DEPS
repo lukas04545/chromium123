@@ -1,9 +1,0 @@
-include_rules = [
-  # keep-sorted start
-  "+components/enterprise/net/core",
-  "+ios/chrome/browser/enterprise/identifiers",
-  "+ios/chrome/browser/signin/model",
-  "+ios/chrome/browser/tabs/model/tabs_dependency_installer.h",
-  "+services/network/public/cpp",
-  # keep-sorted end
-]

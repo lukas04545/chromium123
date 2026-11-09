@@ -1,5 +1,0 @@
-include_rules = [
-  "+services/network/public/cpp",
-]
-
-

@@ -1,3 +1,0 @@
-#target {
-  filter: url("filter.py#make-solid-green" cross-origin(anonymous) referrer-policy(unsafe-url));
-}

@@ -1,3 +1,0 @@
-rules:
-- data.window.js: [data-urls]
-- "*": [fetch]

@@ -1,4 +1,0 @@
-include_rules = [
-  "+base/containers/span_rust.h",
-  "+base/strings/string_view_rust.h",
-]

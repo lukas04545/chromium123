@@ -1,4 +1,0 @@
-rules:
-- load-from-mem-cache-transfer-size*: [resource-size]
-- resource_timing_content_length*: [resource-size]
-- "*": [resource-timing]

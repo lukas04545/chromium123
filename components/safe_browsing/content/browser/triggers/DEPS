@@ -1,4 +1,0 @@
-include_rules = [
-  "+components/tabs/public",
-  "+content/public/test",
-]

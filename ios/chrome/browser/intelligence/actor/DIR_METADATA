@@ -1,8 +1,0 @@
-agentic_review {
-  capability_groups {
-    # No path_expression: loaded for every CL that touches this directory.
-    review_capability_skills: [
-      "ios/chrome/browser/intelligence/actor/agents/skills/actor-principles/SKILL.md"
-    ]
-  }
-}

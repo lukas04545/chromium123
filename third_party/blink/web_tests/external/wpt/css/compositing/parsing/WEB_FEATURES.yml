@@ -1,4 +1,0 @@
-rules:
-- background-blend-mode-*: [background-blend-mode]
-- isolation-*: [isolation]
-- mix-blend-mode-*: [mix-blend-mode]

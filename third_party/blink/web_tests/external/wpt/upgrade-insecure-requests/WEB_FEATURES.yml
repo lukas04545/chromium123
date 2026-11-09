@@ -1,2 +1,0 @@
-rules:
-- "**": [upgrade-insecure-requests]

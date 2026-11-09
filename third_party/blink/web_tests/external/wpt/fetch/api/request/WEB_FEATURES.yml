@@ -1,3 +1,0 @@
-rules:
-- request-init-priority.any.js: [fetch-priority]
-- "*": [fetch]

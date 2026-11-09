@@ -1,8 +1,0 @@
-load("//crowbar", "crowbar_workflow")
-
-crowbar_workflow(
-    origin_files = glob(["usr/share/misc/usb.ids"]),
-    transformations = [
-        core.move("src/usr/share/misc/usb.ids", "src/usb.ids"),
-    ],
-)
